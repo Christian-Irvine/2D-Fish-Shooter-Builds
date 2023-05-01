@@ -1,0 +1,19 @@
+Alpha 0.0.3 Change Log
+----------------------
+
+- Added pause menu when pressing escape
+
+- Changed "Wave" to "Day"
+
+- Added Day of death to death screen
+
+- Added a cooldown bar for shot delay and reloading
+
+- Re recorded menu music
+
+- Bug Fixes
+	- Rebalanced volume sliders to be more accurate
+	- Fixed bug where you could spam reload and shoot to skip reloading
+	- Fixed bug where you could reload when already reloading
+	- Settings menu scales properly now
+	- Readjusted where pistol sits compared to crosshair as it was slightly to the side
