@@ -1,0 +1,23 @@
+Alpha 0.0.6 Change Log
+----------------------
+
+- Re wrote entire shop system to allow better scaling of items
+
+- Changed "Day" to day of week
+
+- Changed in game music to play depending on the day instead of the week
+
+- Made it so you can purchase extra health in the shop
+
+- Added extra shopkeeper dialogue options
+
+- Added reroll button in shop for 10 coins
+
+- Removed WIP Boss spawning on sundays then disappeaing immediately 
+
+- Bug Fixes
+	- Many bugs relating to the shop system
+
+	- removed k button which gave you extra health
+
+	- Changed base coins to 0, and rounds back to 60 seconds from testing ones in last build
