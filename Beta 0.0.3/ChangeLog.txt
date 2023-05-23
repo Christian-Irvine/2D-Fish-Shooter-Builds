@@ -1,4 +1,4 @@
-Alpha 0.0.3 Change Log
+Beta 0.0.3 Change Log
 ----------------------
 
 - Added pause menu when pressing escape
