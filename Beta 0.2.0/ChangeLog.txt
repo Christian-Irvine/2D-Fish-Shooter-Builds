@@ -1,0 +1,22 @@
+Beta 0.2.0 Change Log
+----------------------
+
+- Added WIP Crab Boss
+	- It spawns it can die
+
+	- Gave it the ability to pickup little crabs and throw them
+
+	- Spawns coins when it dies 
+
+	- Its a WIP
+
+- Changed UI to have cleaner buttons
+
+- Added escape button to credits because it was boring
+
+- Added several sounds to the game to make it more lively
+
+- Bug Fixes
+	- Fixed credits kinda scaling weirdly with screen size
+
+	- All the ones that were added when adding the crab except for the ones I haven't fixed yet
